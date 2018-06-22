@@ -45,11 +45,11 @@ the `GardenGnome` class by following these instructions:
 
 1. Create a new instance of the `GardenGnome` class and assign it to the variable
 `gnome1`.
-2. Create another instance of `GardenGnome` and set it's name to "Walter the
+2. Create another instance of `GardenGnome` and set its name to "Walter the
 Worst".
-3. Create another instance of `GardenGnome` and set it's name to "James the Jerk"
+3. Create another instance of `GardenGnome` and set its name to "James the Jerk"
 and its age to 3421.
-4. Create another instance of `GardenGnome` and set it's name to "Alfed the
+4. Create another instance of `GardenGnome` and set its name to "Alfed the
 Abhorrent" and its age to 579. Set its gluten_allergy attribute to true. (Alfred
 has terrible allergies.)
 
